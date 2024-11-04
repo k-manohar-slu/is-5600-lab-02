@@ -1,5 +1,4 @@
 /* add your code here */
-/* add your code here */
 document.addEventListener('DOMContentLoaded', () => {
     const stocksData = JSON.parse(stockContent);
     const userData = JSON.parse(userContent);
